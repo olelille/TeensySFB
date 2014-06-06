@@ -28,5 +28,5 @@ http://www.rs-online.com/designspark/electronics/eng/page/designspark-pcb-home-p
 
 Software
 --------
-Using Arduino Eclipse anddon with Teensy 3.1 support
+Using Arduino Eclipse addon with Teensy 3.1 support
 
