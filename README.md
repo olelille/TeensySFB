@@ -2,6 +2,8 @@ TeensySFB
 =========
 Teensy Sensor Fusion Board
 
+Spesification
+-------------
 This board is a shield to the Teensy 3.1 with the following features:
  - DJI CAN port with 6V power input 
  - 3.3V Switching regulator 
@@ -15,3 +17,16 @@ This board is a shield to the Teensy 3.1 with the following features:
  - FrSky S-Port (UART1) 
  - GSM connector to SIM900 with UART3(TX,RX) and control signals(RST,PWR_ON)
  - Spare UART2 port (OSD, sensor or controller)
+
+
+Hardware
+---------
+The schematic and PCB are designed in DesignSpark PCB 6.0
+http://www.rs-online.com/designspark/electronics/eng/page/designspark-pcb-home-page
+
+
+
+Software
+--------
+Using Arduino Eclipse anddon with Teensy 3.1 support
+
